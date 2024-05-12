@@ -83,10 +83,4 @@ npm start
 
 Contributions are welcome! Please feel free to fork the repository and submit pull requests to contribute to this project.
 
-## License
 
-
-
----
-
-Feel free to customize this README file according to your specific project requirements. Let me know if you need further assistance!
