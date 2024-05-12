@@ -29,10 +29,8 @@ This is a simple chat application built using the MERN (MongoDB, Express.js, Rea
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/mern-chat.git
+https://github.com/BhushanPandagre/Chat_Application_01.git
 ```
-
-
 
 3. Install server dependencies:
 
